@@ -33,3 +33,25 @@ Each task builds upon the previous one, forming a complete workflow from raw dat
 ---
 
 ## Folder Structure
+
+---
+
+## Tools & Technologies
+- **Python**, **Pandas**, **NumPy**
+- **Dynamic Programming**, **Quantization**, **Probability Modeling**
+- **Matplotlib** for visualization
+
+---
+
+## Certificate
+*JP Morgan Chase & Co. – Data Analytics & Risk Virtual Internship (Forage)*  
+*([Attach or link your certificate here](https://drive.google.com/file/d/1digY6FcX3dgUah_Oy8PT_phEXW4UIsbk/view?usp=sharing))
+
+---
+
+## Author
+**Rohan Veer**  
+B.Tech in Artificial Intelligence & Data Science  
+[LinkedIn]([your-link)](https://www.linkedin.com/in/rohan-veer-15aa30378) | [GitHub]([your-profile](https://github.com/rohancmd))
+
+---
