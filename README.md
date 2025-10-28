@@ -1,4 +1,4 @@
-# JP Morgan Chase Forage Virtual Experience Program
+# JPMorgan Chase Forage Virtual Experience Program
 
 This repository contains all four tasks completed as part of the **JP Morgan Chase & Co. – Data Analytics & Risk Virtual Internship (Forage)**.  
 The project simulates real-world scenarios in **credit risk analysis**, **portfolio management**, and **default prediction modeling**.
