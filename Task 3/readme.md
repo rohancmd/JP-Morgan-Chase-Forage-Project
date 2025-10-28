@@ -12,7 +12,7 @@ This task focused on modeling the **probability of default (PD)** using borrower
 ### Files
 - `task3_quantization.py` – quantization algorithm implementation.
 - `Task3_and_4_Loan_Data.csv` – dataset used.
-- `Task3_Presentation.pdf` *(or .pptx)* – summary presentation explaining the methodology, logic, and results.
+- `Presentation.pdf` *(or .pptx)* – summary presentation explaining the methodology, logic, and results.
 
 ### Presentation Overview
 The presentation includes:
@@ -23,3 +23,4 @@ The presentation includes:
 
 **Outcome:**  
 Generated optimal FICO bucket boundaries and clearly communicated findings through a professional presentation.
+
