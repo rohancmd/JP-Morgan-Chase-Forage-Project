@@ -45,13 +45,14 @@ Each task builds upon the previous one, forming a complete workflow from raw dat
 
 ## Certificate
 *JP Morgan Chase & Co. – Data Analytics & Risk Virtual Internship (Forage)*  
-*([View](https://drive.google.com/file/d/1digY6FcX3dgUah_Oy8PT_phEXW4UIsbk/view?usp=sharing))
+([View](https://drive.google.com/file/d/1digY6FcX3dgUah_Oy8PT_phEXW4UIsbk/view?usp=sharing))
 
 ---
 
 ## Author
 **Rohan Veer**  
 B.Tech in Artificial Intelligence & Data Science  
-*([Linkedin](https://www.linkedin.com/in/rohan-veer-15aa30378)) | *([GitHub]([https://www.linkedin.com/in/rohan-veer-15aa30378/](https://github.com/rohancmd)))
+([Linkedin](https://www.linkedin.com/in/rohan-veer-15aa30378)) | 
+([GitHub]((https://github.com/rohancmd)))
 
 ---
