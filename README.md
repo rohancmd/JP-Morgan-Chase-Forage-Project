@@ -52,6 +52,6 @@ Each task builds upon the previous one, forming a complete workflow from raw dat
 ## Author
 **Rohan Veer**  
 B.Tech in Artificial Intelligence & Data Science  
-*[LinkedIn]([https://www.linkedin.com/in/rohan-veer-15aa30378)] | *[GitHub]([your-profile](https://github.com/rohancmd))
+*([Linkedin](https://www.linkedin.com/in/rohan-veer-15aa30378)) | *([GitHub]([https://www.linkedin.com/in/rohan-veer-15aa30378/](https://github.com/rohancmd)))
 
 ---
